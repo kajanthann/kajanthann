@@ -40,32 +40,6 @@
   <img src="https://skillicons.dev/icons?i=js,py,react,nodejs,nextjs,firebase,mysql,mongodb,express,arduino,raspberrypi,c,cpp,java,git,github,linux,docker,aws,vscode&perline=9" />
 </p>
 
----
-
-## 📊 GitHub Stats  
-
-<div align="center">
-
-| <a href="https://github.com/Kajanthan"><img src="https://github-readme-stats.vercel.app/api?username=Kajanthan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" /></a> | <a href="https://github.com/Kajanthan"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kajanthan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" /></a> |
-| ------------- | ------------- |
-
-</div>
-
----
-
-## 📈 GitHub Activity  
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kajanthan&theme=react-dark&hide_border=true&area=true" alt="activity graph" />
-</div>
-
----
-
-## 🏆 GitHub Achievements  
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kajanthan&theme=onedark&no-frame=true&row=1&column=6" alt="trophies" />
-</div>
 
 ---
 
