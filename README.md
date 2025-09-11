@@ -1,76 +1,89 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=YourUsername.YourUsername" />
-
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Arulaiah+Kajanthan!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kajanthan!;" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">A passionate software developer from Sri Lanka 🇱🇰</h3>
+<h3 align="center">🚀 </h3>
 
-<br/>
-
-<div align="center">
- 
- 🔭 I’m currently working on **IOT, MERN Projects**
- 
- 🌱 I’m currently learning **Machine Learning, MERN**
-
-💬 Ask me about **Node.js, React, Firebase, IoT**
-
-⚡ Fun fact **Coffee + Code = Perfect Combo ☕💻**
-
- </div>
- 
-<div align="center"> 
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://your-portfolio-link.com" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
-  </a>
-</div>
-
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,arduino" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql" /><br>
-</div>
-
-<br/>
-<hr/>
+---
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/YourUsername/YourUsername/output/github-contribution-grid-snake.svg" />
   
-  <br/><br/><br/>
+💻 Undergraduate in **Software Engineering**  
+🔭 Currently working on **MERN & ML**  
+🌱 Learning **Machine Learning, Docker, AWS & Cloud Technologies**  
+🎯 Goal: To become an **IoT, Embedded Systems & ML Engineer**  
+⚡ Fun fact: *I love automating things & exploring open-source projects*  
+
 </div>
 
-<hr/>
+---
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=YourUsername&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=YourUsername&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=YourUsername&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs" />
-</div>
-
-<br/><br/>
-
-<hr/>
-
-<br/>
+## 🌐 Connect with Me  
 
 <div align="center">
-<a href='https://ko-fi.com/YourKoFiID' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
 </div>
 
-<br/>
+---
+
+## 🛠️ Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,py,react,nodejs,nextjs,firebase,mysql,mongodb,express,arduino,raspberrypi,c,cpp,java,git,github,linux,docker,aws,vscode&perline=9" />
+</p>
+
+---
+
+## 📊 GitHub Stats  
+
+<div align="center">
+
+| <a href="https://github.com/Kajanthan"><img src="https://github-readme-stats.vercel.app/api?username=Kajanthan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" /></a> | <a href="https://github.com/Kajanthan"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kajanthan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" /></a> |
+| ------------- | ------------- |
+
+</div>
+
+---
+
+## 📈 GitHub Activity  
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kajanthan&theme=react-dark&hide_border=true&area=true" alt="activity graph" />
+</div>
+
+---
+
+## 🏆 GitHub Achievements  
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kajanthan&theme=onedark&no-frame=true&row=1&column=6" alt="trophies" />
+</div>
+
+---
+
+## 🌱 Currently Exploring  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-%23F7931E.svg?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Embedded%20Systems-%23005571.svg?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/IoT-%23007ACC.svg?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+---
+
+## 🐍 Contribution Snake  
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Kajanthan/Kajanthan/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</div>
