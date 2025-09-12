@@ -4,19 +4,15 @@
 
 ---
 
-<div align="justify">
-  
-💻 🎓 I am currently pursuing a <span style="color:green;">B.Comp. (Hons) in Software Engineering</span> at the 
-<a href="https://www.sjp.ac.lk/" target="_blank" style="color:green;">University of Sri Jayewardenepura, Sri Lanka</a>.  
+<div align="">
 
-🔭 My interests include <span style="color:green;">Machine Learning</span>, 
-<span style="color:green;">MERN Stack Development</span>, and the <span style="color:green;">Internet of Things (IoT)</span>.  
-
-🎯 My ultimate goal is to become a skilled <span style="color:green;">IoT, Embedded Systems & Machine Learning Engineer</span>, contributing to global tech innovations.  
-
-🌱 I’m also passionate about <span style="color:green;">open-source</span>, <span style="color:green;">automation</span>, and continuously learning new technologies to stay ahead in the field.  
+💻 🎓 Pursuing <font color="green">B.Comp. (Hons) in Software Engineering</font> at <a href="https://www.sjp.ac.lk/" target="_blank"><font color="green">University of Sri Jayewardenepura</font></a>.  
+🔭 Interested in <font color="green">Machine Learning</font>, <font color="green">MERN Stack</font>, and <font color="green">IoT</font>.  
+🎯 Aspiring to become an <font color="green">IoT, Embedded Systems & ML Engineer</font>.  
+🌱 Passionate about <font color="green">open-source</font>, <font color="green">automation</font>, and <font color="green">continuous learning</font>.  
 
 </div>
+
 
 
 ---
