@@ -4,7 +4,7 @@
 
 ---
 
-<div align="center">
+<div align="">
 
 💻 🎓 Pursuing <b><font color="#00FF00">B.Comp. (Hons) in Software Engineering</font></b> at <a href="https://www.sjp.ac.lk/" target="_blank"><b><font color="#00FF00">University of Sri Jayewardenepura</font></b></a>  
 🔭 Interested in <b><font color="#00FF00">Machine Learning</font></b>, <b><font color="#00FF00">MERN Stack</font></b>, and <b><font color="#00FF00">IoT</font></b>  
@@ -15,7 +15,7 @@
 
 ---
 
-<div align="center">
+<div align="">
   <a href="mailto:your-email@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -38,13 +38,22 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kajanthann&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kajanthann&theme=dark&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
   <img src="https://raw.githubusercontent.com/Kajanthann/Kajanthann/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contributions" />
 </div>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Kajanthann&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kajanthann&theme=dark&hide_border=true" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
+
