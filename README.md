@@ -42,19 +42,4 @@
   <img src="https://raw.githubusercontent.com/Kajanthann/Kajanthann/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contributions" />
 </div>
 
-<div align="center">
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Kajanthann&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kajanthann&theme=dark&hide_border=true" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
-
-</div>
-
 
