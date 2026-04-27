@@ -6,30 +6,35 @@
 
 <div align="">
 
+```json
 {
   "education": {
     "degree": "B.Comp. (Hons) in Software Engineering",
-    "university": "University of Sri Jayewardenepura"
+    "university": {
+      "name": "University of Sri Jayewardenepura",
+      "url": "https://www.sjp.ac.lk/"
+    }
   },
+
   "interests": {
     "fields": [
       "Machine Learning",
       "MERN Stack",
-      "IoT & Embedded"
+      "IoT"
     ]
   },
+
   "career": {
-    "goal": "ML / IoT Engineer"
+    "goal": "IoT, Embedded Systems & ML Engineer"
   },
+
   "passion": {
-    "domains": [
-      "Robotics",
-      "Automation"
-    ],
-    "goal": "Build intelligent systems"
+    "areas": [
+      "Robotics"
+    ]
   }
 }
-
+```
 </div>
 
 ---
