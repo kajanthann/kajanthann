@@ -6,13 +6,11 @@
 
 <div align="">
 
-```json
 {
   "education": {
     "degree": "B.Comp. (Hons) in Software Engineering",
     "university": "University of Sri Jayewardenepura"
   },
-
   "interests": {
     "fields": [
       "Machine Learning",
@@ -20,17 +18,17 @@
       "IoT & Embedded"
     ]
   },
-
   "career": {
-    "goal": "ML/IOT Engineer"
+    "goal": "ML / IoT Engineer"
   },
-
   "passion": {
-  "domains": ["Robotics", "Automation"],
-  "goal": "Build intelligent systems"
+    "domains": [
+      "Robotics",
+      "Automation"
+    ],
+    "goal": "Build intelligent systems"
+  }
 }
-}
-```
 
 </div>
 
