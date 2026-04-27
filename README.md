@@ -5,9 +5,10 @@
 ---
 
 <div align="">
-{
-  "_id": ObjectId("..."),
+## 📊 Profile Data (JSON Style)
 
+```json
+{
   "education": {
     "degree": "B.Comp. (Hons) in Software Engineering",
     "university": {
@@ -33,7 +34,8 @@
       "Robotics"
     ]
   }
-} 
+}
+```
 
 </div>
 
