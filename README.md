@@ -10,22 +10,19 @@
 {
   "education": {
     "degree": "B.Comp. (Hons) in Software Engineering",
-    "university": {
-      "name": "University of Sri Jayewardenepura",
-      "url": "https://www.sjp.ac.lk/"
-    }
+    "university": "University of Sri Jayewardenepura"
   },
 
   "interests": {
     "fields": [
       "Machine Learning",
       "MERN Stack",
-      "IoT"
+      "IoT & Embedded Syatem"
     ]
   },
 
   "career": {
-    "goal": "IoT, Embedded Systems & ML Engineer"
+    "goal": "ML/IOT Engineer"
   },
 
   "passion": {
